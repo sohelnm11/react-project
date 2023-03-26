@@ -1,0 +1,111 @@
+body{
+  font-family: 'Lato';
+  font-style: normal;
+}
+.logo{
+  padding: 38px 0;
+}
+.logo.footer{
+  background: #F9F9F9;
+}
+.landing-img{
+  background-image: url(./Frame\ 2121.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 570px;
+}
+.contact-us{
+  font-weight: 600;
+  font-size: 55px;
+  line-height: 65px;
+  color: #FFFFFF;
+}
+.contact-us h1{
+  position: absolute;
+  margin-top: 30%;
+}
+.form-section{
+  padding: 168px 0;
+
+}
+.drop-message p{
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 45px;
+  letter-spacing: 0.02em;
+  color: #505050;
+}
+.input-field{
+    width: 100%;
+    height: 40px;
+    font-size: 1rem;
+    border: none;
+    background: none;
+    outline: none;
+    margin-top: 12px;
+    border-bottom: 1px solid #828282;
+    margin: 50px 0 0;
+}
+input::placeholder{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.02em;
+  color: rgba(80, 80, 80, 0.4);
+}
+.btn-outline-dark{
+  margin-top: 10%;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #505050;
+}
+.advent-chembio{
+  width: 100%;
+  height: auto;
+}
+.card1{
+  width: 90%;
+  height: auto;
+  z-index: 1;
+}
+
+.img-advent{
+  width: 90%;
+  height: 300px;
+}
+.img-div{
+  left: -50px;
+}
+.bg-light .mb-3{
+  max-width: 18rem;
+}
+.card.bg-light.mb-3{
+  width: 70%;
+  padding: 40px;
+}
+.advent-chembio .row{
+  padding-top: 11%;
+}
+.with-img{
+  top: 24%;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  border: none;
+}
+.component-card{
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  border: none;
+  margin: 0;
+}
+.social-icon{
+  padding-left:10px;
+}
+.row.contact-cards {
+  padding: 15% 0;
+}
+.message-box{
+  height: 100px;
+}
